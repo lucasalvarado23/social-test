@@ -1,8 +1,8 @@
 {
   "name": "mern-social",
   "version": "1.0.0",
-  "description": "A MERN stack based social media application",
-  "author": "Shama Hoque",
+  "description": "Social media for RV",
+  "author": "Lucas Alvarado",
   "license": "MIT",
   "keywords": [
     "react",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-social.git"
+    "url": "https://github.com/lucasalvarado23/social-test.git"
   },
-  "homepage": "https://github.com/shamahoque/mern-social",
+  "homepage": "https://github.com/lucasalvarado23/social-test.git",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
